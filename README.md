@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 4b6aa49dcccb594a47cae934fa64ec52c2802291
 # World Cup Player Stats Data Analysis
 
 ## Executive Summary
