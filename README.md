@@ -241,3 +241,79 @@ Penalty kick
 Direct free kick 
 
 Own goal 
+
+
+### Yellow/Red card age analysis
+#### Yellow Carded Players/Age by country
+
+**Most Yellow Carded Players by Country**
+
+Saudi Arabia - 12 (Avg Age: 28.7)
+
+Netherlands - 11 (Avg Age: 27.5)
+
+Argentina - 10 (Avg Age:     28.4) 
+
+**Fewest Yellow Carded Players by Country**
+
+England - 1 (Avg Age: 27.7)
+
+Spain - 2 (Avg Age: 27.0)       
+
+Ecuador - 2 (Avg Age: 25.7)
+
+**Average Player’s Age per yellow card count**
+
+Zero yellow cards
+
+- 453 players (Avg Age: 27.9)
+
+Minimum 1 yellow card
+
+- 195 players (Avg Age: 28.6)
+
+Minimum 2 yellow cards
+
+- 29 players (Avg Age: 28.4)
+
+Three yellow cards
+
+- 2 players (Avg Age: 29.0)
+
+_Both Argentine players (World Cup Winners and played in the most amount of games)_
+
+**Prossible Explanations:**
+
+- Countries that played more games were more likely to have more carded players due to more playing time compared to countries that played fewer games were more likely to have fewer carded players
+
+- Future analysis of games played to average age of yellow cards received 
+Observation of slightly higher age in countries with more yellow carded players and slightly higher age of carded players to non-carded players.
+
+- Future analysis could look at player position to average age and yellows card received 
+Future analysis to compare number of fouls committed by player’s age to number of yellow cards
+
+**Red Card Age Analysis**
+
+Average Player’s Age per red card count:
+
+- 676 players didn’t receive a red card
+
+        Average age 28.1
+
+- 4 players received one red card
+    
+        Average age 29.8
+        Small data sample
+        ***Wales goalkeeper (age 35) received the only direct red card in the World Cup
+
+**Probable Explanations:**
+
+- Small sample size of only four red carded players average age to 676 non-red carded players age.  
+- Observation of slightly older average age or red carded players to non red carded players
+
+
+## Potential limitations: 
+While our dataset provides valuable insights into World Cup 2022 player age dynamics, it's crucial to acknowledge potential limitations. Firstly, the dataset's accuracy hinges on the reliability of the sources, and any inaccuracies or omissions in player records could impact our findings. Additionally, the dataset may lack certain contextual factors influencing player age, such as injuries, career transitions, or late additions to teams. The analysis assumes that age is the sole determinant of player performance, overlooking other crucial factors like skill level, fitness, and playing experience. Moreover, variations in team selection criteria and playing strategies among nations may introduce biases. Lastly, the dataset's static nature limits our ability to capture real-time changes in player demographics or team dynamics. Recognizing these limitations enhances the interpretative scope of our analysis and encourages a nuanced understanding of the presented findings.
+
+## Conclusion: 
+In conclusion, the analysis of the 2022 Qatar World Cup player statistics provides nuanced insights into team composition, age dynamics, and performance outcomes. The tournament exhibited a consistent squad size and a balanced age distribution, with teams like IR Iran and Qatar prioritizing experienced players, while others, like Ecuador and the United States, focused on youth development. The preference for experience over youthful athleticism was evident in starting lineups, impacting the success of teams, as none with an average starting age of 29 or higher advanced past the Round of 16. Goal-scoring patterns emphasized the contribution of players in their peak years, while disciplinary aspects revealed older players receiving more yellow cards on average. Acknowledging potential limitations, this analysis serves as a valuable resource for understanding the intricate interplay between age, team dynamics, and performance in the World Cup.
