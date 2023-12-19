@@ -133,7 +133,7 @@ Extends from the United States' 24.2 to Qatar's 30.0, showcasing a mix of youth 
 - Teams with younger players might be focusing on long-term development and building a team for the future.
 
 
-# Age According to Starters vs Substitutes:
+## Age According to Starters vs Substitutes:
 ## Background for Comparison:
 According to a study done by The Athletic in 2021, the peak age for a soccer player is 26.29 years old. 
 - Source: Worville, T. (2021, November 15). What Age Do Players in Different Positions Peak? The Athletic. https://theathletic.com/2935360/2021/11/15/what-age-do-players-in-different-positions-peak/)
