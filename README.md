@@ -93,6 +93,7 @@ Extends from the United States' 24.2 to Qatar's 30.0, showcasing a mix of youth 
 ### General Observations and Implications:
 
 **Pie Chart:**
+
 - The red slice represents the average age of defenders at 28.3 years old. The percentage value of 24.6% on the slice indicates the proportion of the total average age that defenders contribute.
 
 - The green slice represents the average age of forwards at 27.7 years old. The percentage value of 24.0% on the slice indicates the proportion of the total average age that forwards contribute.
