@@ -1,4 +1,4 @@
-# World Cup Player Stats Data Analysis
+# World Cup Player Data Analysis
 
 ## Executive Summary
 
